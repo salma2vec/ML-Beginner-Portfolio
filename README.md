@@ -1,3 +1,5 @@
 # Exploratory Data Analysis
 
-**Just me playing around with data.**
+:star: **Just me playing around with data.** :star:
+
+💥 **And, THAT is some real fun!** 💥

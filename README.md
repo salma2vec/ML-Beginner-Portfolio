@@ -10,7 +10,7 @@
 
 
 > [!IMPORTANT]  
-> [Datasets are here!](https://github.com/IdealisticINTJ/ml-beginner-portfolio/blob/main/dataset_info.md) 🔓
+> [Datasets are here!](https://github.com/IdealisticINTJ/ml-beginner-portfolio/blob/main/dataset-info.md) 🔓
 
 
 ## Repository Structure

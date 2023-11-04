@@ -10,7 +10,31 @@
 
 
 > [!IMPORTANT]  
-> [Datasets are here!](https://github.com/IdealisticINTJ/ml-beginner-portfolio/blob/main/datasets/dataset_info.md) 🔓
+> [Datasets are here!](https://github.com/IdealisticINTJ/ml-beginner-portfolio/blob/main/dataset_info.md) 🔓
+
+
+## Repository Structure
+
+| **Category**                               | **Description**                                                                                                                                                                          |
+|-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Artificial Neural Networks (ANNs)         | Explore projects related to ANNs, which are computing systems inspired by the human brain that process information and make predictions.                                                  |
+| Breast Cancer Prediction                   | Engage in projects aimed at predicting breast cancer using various machine learning techniques.                                                                                       |
+| Dimensionality Reduction                   | Understand dimensionality reduction techniques, which help simplify complex data by reducing the number of variables.                                                                  |
+| Generative Adversarial Networks (GANs)     | Delve into the world of GANs, a class of machine learning systems for generating data by training on real data distributions.                                                         |
+| House Price Prediction                      | Predict house prices using various machine learning models and datasets related to real estate.                                                                                      |
+| Linear Algebra Basics                       | Discover fundamental concepts in linear algebra, a key mathematical foundation for machine learning and data analysis.                                                                |
+| Machine Learning Basics (ML Basics)         | Explore the essentials of machine learning, including fundamental algorithms and concepts.                                                                                            |
+| Natural Language Processing (NLP)          | Explore projects related to text and language processing, which involves analyzing and generating human language.                                                                    |
+| Personality Prediction                      | Gain insights into personality prediction, where machine learning models are used to understand and predict human personality traits.                                                    |
+| Recommendations                            | Explore recommender system projects, including anime and movie recommendations that help users discover content.                                                                     |
+| Resources                                  | Access additional resources and references to enhance your machine learning knowledge, including PDFs, guides, and more.                                                              |
+| Sentiment Analysis                         | Dive into projects focusing on sentiment analysis, which involves determining emotions and opinions expressed in text.                                                                |
+| Speech Processing                          | Explore projects related to speech analysis and processing, including speech recognition and synthesis.                                                                               |
+| COVID-19 Detection                         | Engage in projects aimed at detecting COVID-19 through data analysis and machine learning techniques.                                                                                 |
+| Happiness Index Analysis                   | Analyze and understand the happiness index to gain insights into factors contributing to happiness.                                                                                  |
+
+
+
 
 ## Projects List
 
@@ -59,7 +83,7 @@
 15. [Sentiment Analysis](sentiment-analysis/sentiment-analysis/Recommendations/Sentiment_Analysis.ipynb)
     > Sentiment Analysis, Text Classification, Text Processing
 
-16. [Speech Processing](speech-processing/speech-processing/speech-processing/Parkinson's_Detection_Speech_Processing.ipynb)
+16. [Parkinson Disease Detection](speech-processing/speech-processing/speech-processing/Parkinson's_Detection_Speech_Processing.ipynb)
     > Speech Processing, Health Diagnosis, Machine Learning
 
 
